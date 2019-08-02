@@ -1,0 +1,49 @@
+.record_box_item{
+	border: 2px solid #555;
+	border-radius: 5px;
+	height: 100px;
+	width: 98%;
+	margin: 5px auto;
+	background-color: #f8fee2;
+	position: relative;
+}
+
+.pro_pic{
+	height: 95px;
+	position: absolute;
+	left: 5px;
+	top: 3px;
+}
+
+.pro_ttl{
+	font-size: 24px;
+	text-decoration: none;
+	color: #555;
+	position: absolute;
+	left: 120px;
+	top: 3px;
+}
+.pro_dtls{
+	position: absolute;
+	left: 120px;
+	top: 34px;
+	font-weight: bold;
+
+}
+
+.pro_dtls span{
+	margin-right: 10px;
+}
+
+.pro_mrp{
+	
+}
+
+.pro_qtt{
+}
+
+.pro_gst{
+}
+
+.pro_dsc{
+}

@@ -1,0 +1,46 @@
+body{
+	margin: 0px auto;
+	font-family: verdana;
+}
+
+#page{
+	border: 1px solid #8aebff;
+	width: 1000px;
+	margin: 0px auto;
+	border-top: none;
+	border-radius: 3px;
+}
+
+.msg{	
+	width: 500px;
+	margin: 0px auto;
+	margin-bottom: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;	
+	border-radius: 5px;
+}
+
+.msg_err{
+	border: 1px solid red;
+	color: red;
+	background-color: #fffaf9;
+}
+
+.msg_suc{
+	border: 1px solid green;
+	color: green;
+	background-color: #fafff9;
+}
+
+.show{
+	display: inline;
+}
+
+.show_block{
+	display: block;
+}
+
+.hide{
+	display: none;
+}

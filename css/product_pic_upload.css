@@ -1,0 +1,11 @@
+#sv_pic{
+	float: right;
+	border: 1px solid #555;
+	border-radius: 5px;
+	text-decoration: none;
+	padding: 3px 8px;
+}
+
+@media(width:700px){
+	
+}

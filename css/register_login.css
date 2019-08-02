@@ -1,0 +1,26 @@
+#main{
+	/* border: 3px solid blue; */
+	/* height: 400px; */
+	background-color: #f5fefe;
+	
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+
+
+
+#eml_msg{
+	visibility: hidden;
+	font-size: 12px;
+	color: red;
+}
+
+
+
+
+
+
+
+
+

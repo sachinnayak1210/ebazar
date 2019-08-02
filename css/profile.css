@@ -1,0 +1,52 @@
+#main{
+	/* border: 3px solid blue; */
+	/* height: 400px; */
+	margin: 0px auto;
+	background-color: #f5fefe;
+	
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+
+.lbl{
+	width: 38%;
+}
+
+.fld_box{
+	width: 60%;
+}
+
+.chng_{
+	cursor: pointer;
+	margin-left: 10px;
+}
+
+.cntr_{
+	margin-left: 10px;
+}
+
+.main_form{
+	width: 100%;
+}
+
+.outer_cell{
+	padding: 15px;
+}
+
+#pass_td,#col_td{
+	vertical-align: top;
+}
+
+.mrg_btm{
+	margin-bottom: 5px;
+}
+
+#state{
+	width: 100px;
+}
+
+#cntr_ct{
+	margin-left: 70px;
+}
+

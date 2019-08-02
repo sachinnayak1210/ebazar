@@ -1,0 +1,98 @@
+#main{
+	padding-top: 20px;
+}
+
+
+#pro_dtl{
+	position: relative;
+	height: 200px;
+}
+
+#title{
+	font-size: 24px;
+	color: #555;
+	position: absolute;
+	left: 12px;
+	top: 5px;
+}
+
+.lbl{
+	font-weight: bold;
+	font-size: 14px;
+	color: #555;
+}
+
+.rec{
+	font-size: 14px;
+	color: #888;
+	position: absolute;
+}
+
+#seller{
+	cursor: pointer;
+	left: 12px;
+	top: 50px;
+}
+
+#qt{
+	left: 12px;
+	top: 100px;
+}
+
+#mrp{
+	left: 180px;
+	top: 100px;
+}
+
+#discount{
+	left: 350px;
+	top: 100px;
+}
+
+#gst{
+	left: 480px;
+	top: 100px;
+}
+
+.img_box{
+	
+}
+
+.img_box:hover{
+	background-color: #def7fe;	
+	border: 1px solid #6600ff;
+}
+
+._pic{
+	width: 80px;
+	height: 80px;
+	margin: 5px;
+}
+
+._pic:hover{
+	
+}
+
+.arrow{
+	text-align: center;
+	cursor: pointer;
+}
+
+#cap{
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	padding: 5px 12px;
+	background-color: #999900;
+	color: white;
+}
+
+
+
+.cntrl{
+	border: 1px solid #888;
+	padding: 5px;
+	border-radius: 5px;
+	height: 24px;
+	cursor: pointer;
+}
